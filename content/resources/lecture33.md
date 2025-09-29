@@ -4,6 +4,8 @@ description: Lecture notes on the Sullivan conjecture.
 file: /courses/18-917-topics-in-algebraic-topology-the-sullivan-conjecture-fall-2007/bf1e2b27db5154450130f322fdff1195_lecture33.pdf
 file_size: 185774
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

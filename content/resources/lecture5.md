@@ -4,6 +4,8 @@ description: Lecture notes on the Adem relations and group homology calculations
 file: /courses/18-917-topics-in-algebraic-topology-the-sullivan-conjecture-fall-2007/2c1e5e606f38a085cc3c340d5290f675_lecture5.pdf
 file_size: 227690
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

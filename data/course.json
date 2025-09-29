@@ -26,6 +26,7 @@
     "website": "18-917-topics-in-algebraic-topology-the-sullivan-conjecture-fall-2007"
   },
   "course_title": "Topics in Algebraic Topology: The Sullivan Conjecture",
+  "hide_download": true,
   "course_description": "The goal of this course is to describe some of the tools which enter into the proof of Sullivan's conjecture.\n",
   "department_numbers": [
     "18"
@@ -36,6 +37,7 @@
     "content": "e3608af3-51f2-96de-35fe-3dc859cf0807",
     "website": "18-917-topics-in-algebraic-topology-the-sullivan-conjecture-fall-2007"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes"
   ],

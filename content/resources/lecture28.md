@@ -5,6 +5,8 @@ description: Lecture notes on atomicity and the conceptual consequence of two im
 file: /courses/18-917-topics-in-algebraic-topology-the-sullivan-conjecture-fall-2007/2b6eefd951d65db1f115ec5303c4fda8_lecture28.pdf
 file_size: 223782
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
