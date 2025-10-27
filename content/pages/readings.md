@@ -2,8 +2,6 @@
 content_type: page
 description: This section provide information on the course textbook and a list of
   suggested readings and references.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -128,7 +126,7 @@ Mandell, M. "E-infinity Algebras and _p_ -adic Homotopy Theory." _Topology_ 40 (
 31-32
 {{< tdclose >}}
 {{< tdopen >}}
-Geometric Topology: Localization, Periodicity and Galois Symmetry: The 1970 MIT Notes of Dennis Sullivan ([PDF - 1.3 MB](http://www.maths.ed.ac.uk/~aar/books/gtop.pdf))
+Geometric Topology: Localization, Periodicity and Galois Symmetry: The 1970 MIT Notes of Dennis Sullivan ({{% resource_link "9bd7fff7-92d0-48dd-8a8c-d114424930b4" "PDF - 1.3 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

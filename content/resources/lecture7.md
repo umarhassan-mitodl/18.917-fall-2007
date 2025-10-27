@@ -4,8 +4,6 @@ description: Lecture notes on free unstable modules.
 file: /courses/18-917-topics-in-algebraic-topology-the-sullivan-conjecture-fall-2007/0b65ed5433a1570711db5113fe4576a0_lecture7.pdf
 file_size: 238490
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

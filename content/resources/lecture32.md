@@ -5,8 +5,6 @@ description: Lecture notes on the arithmetic square, abelian groups, and the rat
 file: /courses/18-917-topics-in-algebraic-topology-the-sullivan-conjecture-fall-2007/17958e7732b0801edd561637e19ea6cf_lecture32.pdf
 file_size: 196293
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
